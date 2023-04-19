@@ -1,1 +1,3 @@
 # freeCodeCamp
+
+[FreeCodeCamp.org](https://www.freecodecamp.org/learn) is a non-profit organization dedicated to helping people learn to code for free. Their mission is to provide accessible, self-paced coding education to anyone, regardless of their background or prior experience. They offer a variety of online resources, including interactive coding challenges, certifications, and projects, as well as a supportive community of fellow learners and volunteer contributors. Whether you're a complete beginner or a seasoned programmer looking to expand your skills, FreeCodeCamp.org is an excellent place to start your coding journey.
